@@ -2,6 +2,7 @@
 PhonePe is an Indian digital payments and financial services company[5] headquartered in Bengaluru, Karnataka, India.[6][7] PhonePe was founded in December 2015,[2] by Sameer Nigam, Rahul Chari and Burzin Engineer. The PhonePe app, based on the Unified Payments Interface (UPI), went live in August 2016. The PhonePe app is accessible in 11 Indian languages. It enables users to perform various financial transactions such as sending and receiving money, recharging mobile and DTH, making utility payments, conducting in-store payments.
 
 The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. The process involves:
+
 Key Skills: Python(VS COde), SQL, Data Visualization, Pandas, Streamlit.
 
 Data Extraction: Scripting to clone the repository and collect data.
